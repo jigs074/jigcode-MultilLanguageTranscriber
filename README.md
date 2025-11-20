@@ -1,6 +1,8 @@
-# jigcode-MultilLanguageTranscriber
-
 # 🎙️ Offline AI Multilingual Subtitle Generator
+
+> 📺 **Full step-by-step explanation is in the video:**  
+> https://youtu.be/VIDEO_ID  
+> _(Watch this first if you want a guided walkthrough of the code and setup.)_
 
 Turn **any audio/video file** into:
 
